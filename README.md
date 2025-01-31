@@ -75,7 +75,7 @@ Ensure you have the following installed on your local machine:
 
 The API is deployed and can be accessed at:
 
-- **Live URL:** [Provide Deployment URL]
+- **Live URL:** https://hng-stage-0-henna.vercel.app/
 
 ## Example Usage
 
