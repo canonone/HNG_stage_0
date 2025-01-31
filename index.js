@@ -6,6 +6,10 @@ const morgan = require("morgan");
 app.use(cors());
 app.use(morgan("dev"));
 
+app.get("/", (req, res) => {
+  res.redirect("/api/stage_0");
+});
+
 app.get("/api/stage_0", (req, res) => {
   res.status(200).json({
     email: "umohchristian001@gmail.com",
