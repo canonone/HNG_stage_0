@@ -35,7 +35,7 @@ This project is a simple public API developed as part of the HNG Stage 0 task. I
 {
   "email": "umohchristian001@gmail.com",
   "current_datetime": "2023-10-05T12:34:56.789Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/canonone/HNG_stage_0"
 }
 ```
 
