@@ -87,7 +87,7 @@ curl http://localhost:3000/api/stage_0
 
 ## Related Links
 
-For more information on Node.js development, visit:
+For more information on Node.js professionals, visit:
 
 - [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
 
